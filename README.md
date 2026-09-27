@@ -11,7 +11,7 @@
 
 目前独立推进 SRPG 项目《代号：地形》，从玩法命题、规则设计、原型实现一路推进至 40×30 大型单关纵向切片。开发过程中，我主要关注系统边界、玩家行为、关卡节奏与实机验证，并将“做出来”与“设计成立”视为两个不同的验收标准。
 
-[简历](#材料状态)　[实机视频](https://xcnwfl5k7vkb.feishu.cn/file/V6tMb1tTzo4848xQtgEcx3E2njb)　[试玩 Demo](projects/terrain/demo/README.md)　[邮箱 / 联系方式](#材料状态)
+[材料状态](#材料状态)　[实机视频](https://xcnwfl5k7vkb.feishu.cn/file/V6tMb1tTzo4848xQtgEcx3E2njb)　[试玩 Demo](projects/terrain/demo/README.md)
 
 ---
 
@@ -61,4 +61,4 @@
 **张荣堂**  
 系统策划 / 关卡策划方向  
 复旦大学经济学院  
-[邮箱](#材料状态) ｜ [简历 PDF](#材料状态) ｜ [GitHub](https://github.com/zrt13355123189-sudo)
+简历与联系方式通过正式投递渠道提供 ｜ [GitHub](https://github.com/zrt13355123189-sudo)
