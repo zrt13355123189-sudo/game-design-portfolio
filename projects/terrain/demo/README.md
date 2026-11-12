@@ -1,17 +1,23 @@
-# 《代号：地形》求职演示版 v0.1｜试玩说明
+# 《代号：地形》Windows 试玩版 v0.2｜试玩说明
 
 > **平台：Windows 10 / 11 x64**  
 > **推荐体验：15–30 分钟短目标；熟练完整通关约 60 分钟**  
-> **版本：v0.1｜2026-09**  
+> **版本：v0.2｜2026-11**
 > **展示重点：高台与地形改造、敌军联动、面粉关特殊机制、战前编成与战场信息交互**
 
-[返回作品集首页](../../../README.md) · [项目主页](../01_项目概览.md) · [操作说明与攻略 PDF](《代号：地形》面粉关操作说明与攻略.pdf) · [GitHub Release](https://github.com/zrt13355123189-sudo/game-design-portfolio/releases/tag/terrain-demo-v0.1)
+[返回作品集首页](../../../README.md) · [项目主页](../01_项目概览.md) · [操作说明与攻略 PDF](《代号：地形》面粉关操作说明与攻略.pdf) · [GitHub Release](https://github.com/zrt13355123189-sudo/game-design-portfolio/releases/tag/terrain-demo-v0.2)
+
+## v0.2 本轮更新
+
+- 补齐基础、进阶与机制教学关，并完善战前地形编辑、局内 UI 交互与镜头调度。
+- 更新结算及存读档流程，形成更完整的试玩体验路径。
+- 调整面粉关初始背包，并将胜利条件校准为击败面粉关 Boss。
 
 ## 直接下载
 
-**[下载 Windows 试玩包（ZIP，约 36 MB）](https://github.com/zrt13355123189-sudo/game-design-portfolio/releases/download/terrain-demo-v0.1/CodenameTerrain_FlourStage_Portfolio_v0.1_win64.zip)**
+**[下载 Windows 试玩包（ZIP，约 42.8 MB）](https://github.com/zrt13355123189-sudo/game-design-portfolio/releases/download/terrain-demo-v0.2/CodenameTerrain_v0.2_win64.zip)**
 
-下载并解压后，请保持 `CodenameTerrain.exe` 与 `CodenameTerrain.pck` 位于同一文件夹，双击 EXE 后选择“开始面粉关”。首次体验建议保留默认 7 人编成。
+下载并解压后，请保持 `CodenameTerrain.exe` 与 `CodenameTerrain.pck` 位于同一文件夹，双击 EXE 后进入游戏。首次体验建议保留默认 7 人编成。本 ZIP 仅含游戏程序文件，不含个人存档。
 
 Windows 可能显示来源未知的安全提示。本包未进行代码签名；如果不希望运行未签名程序，也可以通过[实机视频](https://xcnwfl5k7vkb.feishu.cn/file/V6tMb1tTzo4848xQtgEcx3E2njb)、[攻略 PDF](《代号：地形》面粉关操作说明与攻略.pdf)与四篇设计案例了解项目。
 
@@ -31,17 +37,17 @@ Windows 可能显示来源未知的安全提示。本包未进行代码签名；
 - **敌军职责：** 分组激活、治疗与道具使用、厨师搬运、角楼高台和 Boss 警戒攻击；
 - **战前与信息交互：** 9 选 7 编成、流派调整、物品交换、运输队、危险范围和情报书。
 
-本版本已经完成 Godot 导入与脚本校验、面粉关功能冒烟测试和导出程序启动测试。它用于验证系统设计与关卡设计，**不代表最终画面、音效和 UI 品质**；当前数值与敌人配置也尚未接受外部试玩反馈。
+本版本已完成选定的教学、关卡、UI 与存读档自动化验证，以及 Windows 导出验证；尚未接受外部试玩反馈。它用于体验系统设计与关卡设计，**不代表最终画面、音效和 UI 品质**；当前数值与敌人配置仍会继续迭代。
 
 ## 文件校验
 
 试玩包 SHA256：
 
 ```text
-3B58C2C005AB44EA5A6307A3CA3C58F096A1E02506775A59DF4421AEEFCC1FD2
+4F3DC054A1F34896601AA3BEB97A66A0117C36B9D58137E331A3896033C7C461
 ```
 
-[查看 Release 页面与独立校验文件](https://github.com/zrt13355123189-sudo/game-design-portfolio/releases/tag/terrain-demo-v0.1)
+[查看 Release 页面与独立校验文件](https://github.com/zrt13355123189-sudo/game-design-portfolio/releases/tag/terrain-demo-v0.2)
 
 ## 继续阅读
 
